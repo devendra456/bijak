@@ -2,7 +2,6 @@ import 'package:bijak/core/models/product_model.dart';
 import 'package:bijak/core/routes/app_pages.dart';
 import 'package:bijak/core/widgets/add_to_cart_button.dart';
 import 'package:bijak/core/widgets/image_loader_widget.dart';
-import 'package:bijak/features/cart/controllers/cart_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
